@@ -1,4 +1,5 @@
-#Catch the eggs
+# Catch the eggs
+
 This is clone of the game 'Catch the eggs' using opengl library - IGraphics and C.
 I made this game for my term project of the course of CSE102 on Level 1 Term 1. 
 
